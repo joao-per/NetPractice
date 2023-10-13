@@ -1,8 +1,13 @@
-# 🌐 NetPractice
-
 <div align="center">
-<img alt="NetPractice" src="https://github.com/joao-per/joao-per/blob/main/Badges/NetPractice.png" />
+
+ # 🌐 NetPractice
+	
+<a href="https://github.com/joao-per/philosophers">![42 NetPractice](https://github.com/joao-per/joao-per/blob/main/Badges/NetPractice.png)</a>
+
+I wish I could Address my relationship problems 🍃🌐
+
 </div>
+
 
 ## 📌 Overview
 
