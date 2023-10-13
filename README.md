@@ -1,4 +1,8 @@
-# 🌐 Dive Deeper into Networking Concepts with NetPractice Levels!
+# 🌐 NetPractice
+
+<div align="center">
+<img alt="NetPractice" src="https://github.com/joao-per/joao-per/blob/main/Badges/NetPractice.png" />
+</div>
 
 ## 📌 Overview
 
